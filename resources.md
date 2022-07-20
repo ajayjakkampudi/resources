@@ -1,8 +1,13 @@
-### Contents
+## **Contents**
+
 1. [Mathematics](#mathematics)
+
 1. [Machine Learning](#machine-learning)
+
 1. [Artificial Neural Networks](#artificial-neural-networks)
+
 1. [OpenCV](#opencv)
+
 1. [Convolutional Neural Networks](#convolutional-neural-networks)
 1. [Reccurent Neural Networks](#reccurent-neural-networks)
 
