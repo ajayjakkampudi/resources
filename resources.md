@@ -11,6 +11,7 @@
 1. [Convolutional Neural Networks](#convolutional-neural-networks)
 1. [Reccurent Neural Networks](#reccurent-neural-networks)
 1. [YouTube Links](#youtube-links)
+1. [Libraries](#Libraries)
 
 
 
@@ -36,3 +37,6 @@
 
 ### YouTube Links
 * KrishNaik YouTube Videos - [Link](https://www.youtube.com/user/krishnaik06)
+
+### Libraries
+* RegEX - [Link](https://www.w3schools.com/python/python_regex.asp)
